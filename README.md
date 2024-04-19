@@ -34,6 +34,7 @@ Este caso de uso propone la utilización de Notion sobre todo como API para ayud
 - Node Js
 - Notion API
 - Html
+- React
 
 ### Integraciones:
 
