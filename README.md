@@ -33,6 +33,7 @@ Este caso de uso propone la utilización de Notion sobre todo como API para ayud
 - Javascript
 - Node Js
 - Notion API
+- Discord API
 - Html
 - React
 
