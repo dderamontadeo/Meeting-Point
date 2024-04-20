@@ -27,7 +27,8 @@ Este caso de uso propone la utilización de Notion sobre todo como API para ayud
 - Panel de Actividades: Integrar un panel de actividades que integre Notion para visualizar las actividades que se tienen por realizar a lo largo de todo el ecosistema de aplicaciones integradas.
 - Creación de Actividad: Realizar un formulario web que permita la creación de una actividad ya sea tarea o asignación Esta tarea se podrá repetir a lo largo de las plataformas que se integran en este proyecto.
 - Wiki: Se realizara una wiki del espacio de trabajo donde se documentara cada actividad e información importante del espacio de trabajo. Se incluirá la IA de Notion para realizar la generación de la wiki del proyecto y de actividades solicitadas.
-
+- Informe de Chat: Utilizar la IA de Notion para realizar una minuta de los chats realizados reduciendo el tiempo de lectura de cientos de mensajes.
+- Discord:  Integrarlo con Notion para realización la creación y/o modificacion de hojas desde el chat así como actuar como intermediario entre los distintos servicios. 
 ### Tecnologías:
 
 - Javascript
