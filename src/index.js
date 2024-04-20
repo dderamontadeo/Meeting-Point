@@ -47,7 +47,7 @@ client.on('messageCreate', (message) => {
   }
 });
 
-client.login('MTIzMDk0NTU1OTg5NjkxNjAwOQ.Gnugqp.6R-grWX_KBruICU6f1muXyS0zWDkyoTIAhZMgc'); //Here is the token of the bot
+client.login(''); //Here is the token of the bot
 
 //Funcion manda un bloque de texto en notion
 function sendMessage({mensaje}){
