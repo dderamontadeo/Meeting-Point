@@ -37,8 +37,38 @@ Este caso de uso propone la utilización de Notion sobre todo como API para ayud
 - Html
 - React
 
+
 ### Integraciones:
 
 - Microsoft Teams
 - Google Classroom
 - Discord
+
+### Integración Discord - Notion:
+![image](https://github.com/dderamontadeo/Meeting-Point/assets/114975863/0206621e-8ba1-44c8-9277-c42c5f10e930)
+
+### Calendario:
+- ![image](https://github.com/dderamontadeo/Meeting-Point/assets/114975863/646860d9-1a50-4bc5-ae9b-de92dc531584)
+
+### Chat:
+![image](https://github.com/dderamontadeo/Meeting-Point/assets/114975863/b08e5bd0-a312-4e48-9056-7530fb706c0e)
+
+### Minuta de chat:
+![image](https://github.com/dderamontadeo/Meeting-Point/assets/114975863/9ebf6a7a-d92c-4464-8eab-b22a10bb91d2)
+
+
+### Panel de actividades:
+![image](https://github.com/dderamontadeo/Meeting-Point/assets/114975863/8de387f0-a7d3-4e66-9cc3-5ed79a1c04cf)
+
+
+### Visualizar actividades:
+![image](https://github.com/dderamontadeo/Meeting-Point/assets/114975863/1f92d939-e1eb-4623-ab1f-b920383a86af)
+
+
+### Asignar actividades:
+![image](https://github.com/dderamontadeo/Meeting-Point/assets/114975863/03ec850f-5616-44bf-98bb-12ce2e551ed4)
+
+
+
+
+
