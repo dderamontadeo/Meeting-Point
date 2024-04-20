@@ -40,5 +40,4 @@ Este caso de uso propone la utilización de Notion sobre todo como API para ayud
 
 - Microsoft Teams
 - Google Classroom
-- Slack
 - Discord
